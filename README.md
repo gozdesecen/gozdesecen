@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 🌷 
 💭 We are currently learning data analytics
 
-![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/gozdesecen/gozdesecen/assets/44326477/0244e6a5-b45e-4fce-8266-b14ece73791f)
+### ![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/gozdesecen/gozdesecen/assets/44326477/0244e6a5-b45e-4fce-8266-b14ece73791f) ###
 
