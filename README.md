@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👩🏻‍💻 Data Analyst shares my technology journey and what I've learned
+👩🏻‍🎓 Studied Management Information Systems at Bartın University
+🌷 
+💭 We are currently learning data analytics
